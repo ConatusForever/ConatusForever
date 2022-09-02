@@ -1,8 +1,7 @@
-- 👋 What's going on! I’m @ConatusForever and I'm slowly building my developer capabilities
-- 👀 I’m interested in learning python to automate everyday tasks and improve my data analytics skills.
-- 🌱 I’m currently learning python for data analysis and SQL for data analysis.
-- 💞️ I’m looking to collaborate on small data analytics projects.
-- 📫 You can reach me at my email, Hakeemrlawrence@yahoo.com
+- 👋 What's going on! My name is Hakeem, born and raised out of Miami, Fl with a huge interest in fitness.
+- 👀 My interests lie in data analytics and machine learning.
+- 🌱 I typically build projects in Power BI, Python and Excel.
+- 💞️ I’m looking to collaborate on small data analytics projects to grow my modeling capabilities.
 
 <!---
 ConatusForever/ConatusForever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
