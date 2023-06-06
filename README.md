@@ -1,4 +1,4 @@
-# Hello there 👋🏿, welcome to my portfolio!
+# Hello there 👋🏿, welcome to my portfolio! 😁
 #### Data and Communication
 ![Data and Communication](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
