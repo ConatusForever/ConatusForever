@@ -5,10 +5,11 @@
 Allow me to introduce myself, an exceptional professional specializing in data modeling, data strategy, and communication. With a keen eye for detail and a passion for innovation, I possess a unique ability to transform complex data sets into actionable insights. 
 
 ## Skills and Experience
-* 📈 Power BI 
-* 🐍 Python
-* 🌐 PowerShell
-* 💎 Azure
+* #F2C811 Power BI 
+* #3776AB Python
+* #CC2927 SQL Server
+* #5391FE PowerShell
+* #0078D4 Azure
 
 - 🔭 I’m currently working on this page. 
 - 
