@@ -1,6 +1,6 @@
 # Hello there 👋🏿, welcome to my portfolio! 😁
 **The Business Engineer**
-![Data and Communication](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fi4jKn7itdV2Tvjzj6Y%2Fgiphy.gif&f=1&nofb=1&ipt=102267219feac2a43b62e44f50afd62b8f472b2010e46fb7580d23128bfe42f2&ipo=images)
+![Data and Communication]([https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fi4jKn7itdV2Tvjzj6Y%2Fgiphy.gif&f=1&nofb=1&ipt=102267219feac2a43b62e44f50afd62b8f472b2010e46fb7580d23128bfe42f2&ipo=images](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.commercient.com%2Fwp-content%2Fuploads%2F2019%2F12%2FdeepLearning.gif&f=1&nofb=1&ipt=58d21fe3d28118fe34028e2403e856c840e211d9cd4a5b74e7412ffccb8608ec&ipo=images))
 
 Allow me to introduce myself, an exceptional professional specializing in data modeling, data strategy, and communication. With a keen eye for detail and a passion for innovation, I possess a unique ability to transform complex data sets into actionable insights. 
 
