@@ -5,8 +5,9 @@
 Allow me to introduce myself, I'm an exceptional professional specializing in data modeling, data strategy, and communication. With a keen eye for detail and a passion for innovation, I possess a unique ability to transform complex data sets into actionable insights. 
 
 ## Skills and Experience
-* <img align= "left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+* <img align= "left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 * <img align= "left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+* <img align= "left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 * #CC2927 SQL Server
 * #5391FE PowerShell
 * #0078D4 Azure
