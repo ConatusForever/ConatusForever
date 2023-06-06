@@ -9,7 +9,7 @@ Allow me to introduce myself, I'm an exceptional professional specializing in da
 <img align= "left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align= "left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img  align= "left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-
+*
 ## My GitHub Statistics
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conatusforever)](https://github.com/anuraghazra/github-readme-stats)
