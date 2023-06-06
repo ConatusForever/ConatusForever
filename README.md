@@ -1,6 +1,6 @@
 # Hello there 👋🏿, welcome to my portfolio! 😁
-#### Data and Communication
-![Data and Communication](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+**The Business Engineer**
+![Data and Communication](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fi4jKn7itdV2Tvjzj6Y%2Fgiphy.gif&f=1&nofb=1&ipt=102267219feac2a43b62e44f50afd62b8f472b2010e46fb7580d23128bfe42f2&ipo=images)
 
 Allow me to introduce myself, an exceptional professional specializing in data modeling, data strategy, and communication. With a keen eye for detail and a passion for innovation, I possess a unique ability to transform complex data sets into actionable insights. 
 
