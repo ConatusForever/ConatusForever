@@ -7,7 +7,7 @@
 - 🌱 I'm looking to collaborate on open source end-to-end data projects
 - 📨 Ask me anything data related ... specifically with the tools Python, Power BI, SQL or PowerShell
 - 🗣️ Ask me about... Soft skills
-- 📲 Reach me on [LinkedIN] https://www.linkedin.com/in/hakeemlawrence/
+- 📲 Reach me on [LinkedIN] (https://www.linkedin.com/in/hakeemlawrence/)
 - 🏋🏿‍♂️ Fun fact, I'm am a fitness fanatic!
 
 <!---
