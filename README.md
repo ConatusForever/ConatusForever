@@ -8,7 +8,7 @@
 - 📨 Ask me anything data related ... specifically with the tools Python, Power BI, SQL or PowerShell
 - 🗣️ Ask me about... Soft skills
 - 📲 Reach me on [LinkedIN](https://www.linkedin.com/in/hakeemlawrence/)
-- 🏋🏿‍♂️ Fun fact, I'm am a fitness fanatic!
+- 🏋🏿‍♂️ Fun fact, I'm a fitness fanatic!
 
 <!---
 ConatusForever/ConatusForever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
