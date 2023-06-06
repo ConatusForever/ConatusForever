@@ -11,9 +11,11 @@ Allow me to introduce myself, an exceptional professional specializing in data m
 * #5391FE PowerShell
 * #0078D4 Azure
 
+## My GitHub Statistics
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conatusforever)](https://github.com/anuraghazra/github-readme-stats)
 
+## Things I am interested in or working on
 
 - 🛠️ I'm currently working on Azure Data Engineering projects
 - 👀 I'm also working on personal Power BI reports.
