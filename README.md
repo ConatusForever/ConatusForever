@@ -1,10 +1,14 @@
-### Hi there 👋, Hakeem Lawrence
+# Hi there 👋, Hakeem Lawrence
 #### Data and Communication
 ![Data and Communication](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Allow me to introduce myself, an exceptional professional specializing in data modeling, data strategy, and communication. With a keen eye for detail and a passion for innovation, I possess a unique ability to transform complex data sets into actionable insights. 
 
-Skills: Power BI / Python / PowerShell / Azure
+## Skills and Experience
+* 📈 Power BI 
+* 🐍 Python
+* 🌐 PowerShell
+* 💎 Azure
 
 - 🔭 I’m currently working on this page. 
 - 
