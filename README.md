@@ -6,7 +6,7 @@ Allow me to introduce myself, I'm an exceptional professional specializing in da
 
 ## Skills and Experience
 * #F2C811 Power BI 
-* #3776AB Python
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python
 * #CC2927 SQL Server
 * #5391FE PowerShell
 * #0078D4 Azure
