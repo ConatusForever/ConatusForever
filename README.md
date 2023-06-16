@@ -22,7 +22,11 @@ Allow me to introduce myself, I'm an exceptional professional specializing in da
 
 ## My GitHub Statistics
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conatusforever)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://raw.githubusercontent.com/ConatusForever/githubstats/master/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ConatusForever/githubstats/master/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ConatusForever/githubstats/master/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ConatusForever/githubstats/master/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ConatusForever/githubstats/master/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ## Things I am interested in or working on
 
