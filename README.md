@@ -15,7 +15,7 @@ Allow me to introduce myself, I'm an exceptional professional specializing in da
 * Python
 * Azure
 * SQL Server
-* PowerShell
+
 
 
 
