@@ -9,7 +9,7 @@ Allow me to introduce myself, I'm an exceptional professional specializing in da
 <img align= "left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align= "left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img  align= "left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>  
-<img  align= "left" alt="Power BI" width="60px" style="padding-right:250px;" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png"/>
+<img  align= "left" alt="Power BI" width="60px" style="padding-right:10px;" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png"/>
 
 <br />
 
