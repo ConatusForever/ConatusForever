@@ -34,9 +34,9 @@ Allow me to introduce myself, I'm Hakeem, an exceptionally devoted data professi
 
 ## Things I am interested in or working on
 
-- 🛠️ I'm currently working on Azure Data Engineering projects
-- 👀 I'm also working on personal Power BI reports.
-- 🌱 I'm looking to collaborate on open source end-to-end data projects
+- 🛠️ I'm currently working on equity investing projects
+- 📊 I'm always developing a personal project in Power BI.
+- 🌱 I'm open to collaborate on open-source end-to-end data projects
 - 📨 Ask me anything data related ... specifically with the tools Python, Power BI, SQL or PowerShell
 - 🗣️ Ask me about... Soft skills
 - 📲 Reach me on [LinkedIN](https://www.linkedin.com/in/hakeemlawrence/)
