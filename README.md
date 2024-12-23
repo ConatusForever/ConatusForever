@@ -2,7 +2,7 @@
 
 # Hello there 👋🏿, welcome to my playground! 😁
 
-Allow me to introduce myself, I'm Hakeem, an exceptionally devoted data professional specializing in data modeling, analytic engineering, and data visualization. With a keen eye for detail and a passion for innovation, I possess a unique ability to transform complex data sets into actionable insights. Feel free to look at my GitHub stats below or review my data projects. </br>
+Allow me to introduce myself, I'm Hakeem, an exceptionally devoted data professional specializing in analytics engineering and data visualization. With a keen eye for detail and a passion for innovation, I possess a unique ability to transform complex data sets into actionable insights. Feel free to look at my GitHub stats below or review my data projects. </br>
 
 *If you aren't familiar with Github, you can find my data projects under the repository tab*
 
